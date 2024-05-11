@@ -16,15 +16,15 @@ These tools were chosen for their robustness and flexibility, allowing for effic
 ## Data Preparation
 The data preparation process is crucial to ensure the reliability and validity of the analysis. This process includes several key steps:
 
-**Data Scraping:** Using Selenium, job listings are scraped from Glassdoor, following the method established by Omer Sakarya.
-**Data Cleaning:** Once the data is collected, it undergoes a rigorous cleaning process to remove inconsistencies or irrelevant information. Specific tasks include:
+- **Data Scraping:** Using Selenium, job listings are scraped from Glassdoor, following the method established by Omer Sakarya.
+- **Data Cleaning:** Once the data is collected, it undergoes a rigorous cleaning process to remove inconsistencies or irrelevant information. Specific tasks include:
 - Removing duplicate entries.
 - Creating new columns
 - Converting all salary data to a consistent format.
 - Converting all NaN values to -1 to standardize missing data handling.
 - Normalizing job titles and company names.
 - Standardizing company revenue figures into a uniform format.
-**Data Transformation:** Necessary transformations are applied to prepare the dataset for analysis. This involves encoding categorical variables and normalizing numerical data to ensure consistency across the dataset.
+- **Data Transformation:** Necessary transformations are applied to prepare the dataset for analysis. This involves encoding categorical variables and normalizing numerical data to ensure consistency across the dataset.
 
 ## Exploratory Data Analysis (EDA)
 The exploratory data analysis (EDA) stage is designed to uncover underlying patterns, relationships, and insights from the cleaned and transformed data. Key aspects of this phase include:
