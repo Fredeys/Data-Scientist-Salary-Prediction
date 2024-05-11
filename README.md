@@ -1,7 +1,7 @@
 # Data-Scientist-Salary
 
 ## Project Overview
-This GitHub repository presents a project inspired by Ken Jee, implementing a web scraper originally developed by Omer Sakarya for extracting job listings for Data Scientists from Glassdoor. This initiative aims to delve into the Data Science job market through a comprehensive analysis of job postings. Key stages of the project include utilizing Omer Sakarya's scraping method (detailed here), cleaning the acquired data to ensure its quality, conducting exploratory data analysis (EDA) to identify significant trends and patterns, and constructing a predictive model to discern the dynamics influencing job opportunities.
+This GitHub repository presents a project inspired by Ken Jee, implementing a web scraper originally developed by Omer Sakarya for extracting job listings for Data Scientists from Glassdoor. This initiative aims to delve into the Data Science job market through a comprehensive analysis of job postings. Key stages of the project include utilizing Omer Sakarya's scraping method ((https://mersakarya.medium.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905), cleaning the acquired data to ensure its quality, conducting exploratory data analysis (EDA) to identify significant trends and patterns, and constructing a predictive model to discern the dynamics influencing job opportunities.
 
 ## Technologies and Libraries
 This project is implemented using Python, leveraging several libraries to manage the data scraping, cleaning, analysis, and modeling phases:
