@@ -6,11 +6,11 @@ This GitHub repository presents a project inspired by Ken Jee, implementing a we
 ## Technologies and Libraries
 This project is implemented using Python, leveraging several libraries to manage the data scraping, cleaning, analysis, and modeling phases:
 
-**Selenium:** Used for automating the web browser to scrape job listings from Glassdoor.
-**Pandas:** Employed for data manipulation and cleaning.
-**NumPy:** Utilized for numerical data handling.
-**Matplotlib and Seaborn:** Used for creating visualizations during the exploratory data analysis.
-**Scikit-learn:** Applied for building and evaluating the predictive model.
+- **Selenium:** Used for automating the web browser to scrape job listings from Glassdoor.
+- **Pandas:** Employed for data manipulation and cleaning.
+- **NumPy:** Utilized for numerical data handling.
+- **Matplotlib and Seaborn:** Used for creating visualizations during the exploratory data analysis.
+- **Scikit-learn:** Applied for building and evaluating the predictive model.
 These tools were chosen for their robustness and flexibility, allowing for efficient processing and detailed analysis of the job market data.
 
 ## Data Preparation
