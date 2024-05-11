@@ -18,12 +18,12 @@ The data preparation process is crucial to ensure the reliability and validity o
 
 - **Data Scraping:** Using Selenium, job listings are scraped from Glassdoor, following the method established by Omer Sakarya.
 - **Data Cleaning:** Once the data is collected, it undergoes a rigorous cleaning process to remove inconsistencies or irrelevant information. Specific tasks include:
-- Removing duplicate entries.
-- Creating new columns
-- Converting all salary data to a consistent format.
-- Converting all NaN values to -1 to standardize missing data handling.
-- Normalizing job titles and company names.
-- Standardizing company revenue figures into a uniform format.
+  - Removing duplicate entries.
+  - Creating new columns
+  - Converting all salary data to a consistent format.
+  - Converting all NaN values to -1 to standardize missing data handling.
+  - Normalizing job titles and company names.
+  - Standardizing company revenue figures into a uniform format.
 - **Data Transformation:** Necessary transformations are applied to prepare the dataset for analysis. This involves encoding categorical variables and normalizing numerical data to ensure consistency across the dataset.
 
 ## Exploratory Data Analysis (EDA)
